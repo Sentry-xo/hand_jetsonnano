@@ -88,3 +88,6 @@ git clone https://github.com/newbiehyz/hand_jetsonnano
 cd hand_jetsonnano
 python3 detect.py   # press 'q' to exit
 ```
+## New Engine File
+```
+The custom model file can be regenerated using the yolov5/build folder using the readme file provided.
