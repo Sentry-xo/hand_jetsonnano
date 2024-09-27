@@ -84,7 +84,7 @@ pip3 install pycuda --user
 ## Inference
 ```
 cd ~
-git clone https://github.com/newbiehyz/hand_jetsonnano
+git clone https://github.com/Sentry-xo/hand_jetsonnano
 cd hand_jetsonnano
 python3 detect.py   # press 'q' to exit
 ```
